@@ -1,0 +1,8 @@
+flask
+flask-restplus
+flask-sqlalchemy
+flask-cors
+mysqlclient
+Flask-Migrate
+flask-jwt-extended
+Flask-Bcrypt
