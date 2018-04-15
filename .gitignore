@@ -1,6 +1,8 @@
 #led / optimized / DLL files
 __pycache__/
 
+.idea
+
 # C extensions
 *.so
 
